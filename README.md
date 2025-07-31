@@ -1,4 +1,3 @@
-# PasswordStrengthChecker---String
 # 🔐 Password Strength Checker – Java
 
 A simple Java console application to check the strength of a password based on character types and length.
